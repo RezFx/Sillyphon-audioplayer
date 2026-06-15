@@ -66,11 +66,11 @@ body{
 }
 
 .music-titles .name{
-  font-size: 19px;
+  font-size: 22px;
 }
 
 .music-titles .artist{
-  font-size: 17px;
+  font-size: 19px;
   margin-top: 3px;
   opacity: 0.9;
 }
