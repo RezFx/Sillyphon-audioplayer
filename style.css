@@ -62,7 +62,7 @@ body{
 .music-titles{
   text-align: center;
   margin: 30px 0;
-  color: white;
+  color: #ccc;
 }
 
 .music-titles .name{
