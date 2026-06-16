@@ -42,7 +42,7 @@ let songs = [
     audio: "music7"
   },
   {
-    name: "I heard it through the grapevine",
+    name: "I heard...grapevine",
     artist: "sillyphon",
     img: "img8",
     audio: "music8"
