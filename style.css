@@ -62,16 +62,17 @@ body{
 .music-titles{
   text-align: center;
   margin: 30px 0;
-  color: #4d4d4d;
 }
 
 .music-titles .name{
   font-size: 22px;
+  color: #4d4d4d;
 }
 
 .music-titles .artist{
   font-size: 19px;
   margin-top: 3px;
+  color: white;
   opacity: 0.9;
 }
 
